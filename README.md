@@ -17,18 +17,6 @@ An interactive Power BI dashboard analyzing 1,00,000+ Ola ride bookings (July 20
 - **Microsoft Excel** — Data source
 - **Power Query** — Data cleaning & transformation
 
-- 📁 Project Structure
-ola-rides-analytics-powerbi/Ola_ride_analytics_page-0001
-│
-├── Ola_project.pbix        # Power BI project file
-├── screenshots/
-│   ├── Ola_ride_analytics_page-0001.png (Overview)
-│   ├── Ola_ride_analytics_page-0002.png (vehicle_type)
-│   ├── Ola_ride_analytics_page-0003.png (revenue)
-│   ├── Ola_ride_analytics_page-0004.png (cancellation)
-│   └── Ola_ride_analytics_page-0005.png (ratings)
-└── README.md
-
 - 💡 Key Learnings
 
 - Designing multi-page interactive dashboards in Power BI
